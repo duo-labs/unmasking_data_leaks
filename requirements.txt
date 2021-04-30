@@ -10,5 +10,5 @@ netaddr==0.7.19
 pycodestyle==2.5.0
 pyflakes==2.1.1
 requests==2.22.0
-urllib3==1.25.3
+urllib3==1.25.8
 yapf==0.27.0
